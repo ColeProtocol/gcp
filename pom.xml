@@ -18,7 +18,7 @@ limitations under the License.
 
   <modelVersion>4.0.0</modelVersion>
   <!-- REQUIRED : your application must be packed as a .war to deploy on App Engine Standard -->
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <groupId>com.example.appengine-j17</groupId>
   <artifactId>helloworld</artifactId>
