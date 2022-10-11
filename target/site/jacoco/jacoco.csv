@@ -1,2 +1,4 @@
 GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-helloworld,com.example.appengine.java8,HelloAppEngine,0,26,0,0,0,10,0,3,0,3
+helloworld,com.example.appengine.java8,Deight,22,0,0,0,8,0,2,0,2,0
+helloworld,com.example.appengine.java8,HelloAppEngine,0,47,0,0,0,10,0,3,0,3
+helloworld,com.example.appengine.java8,Name,13,0,0,0,5,0,2,0,2,0
